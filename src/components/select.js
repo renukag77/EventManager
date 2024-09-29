@@ -1,5 +1,3 @@
-// src/components/ui/select.js
-
 import React from 'react';
 
 export const Select = ({ value, onValueChange, children }) => {
